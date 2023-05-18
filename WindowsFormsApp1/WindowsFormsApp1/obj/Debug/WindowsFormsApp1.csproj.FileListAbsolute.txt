@@ -1,0 +1,20 @@
+c:\users\lucas\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\lucas\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\lucas\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\lucas\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\lucas\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\lucas\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+c:\users\lucas\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BallBeam.resources
+C:\Users\e017843\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\e017843\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\e017843\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BallBeam.resources
+C:\Users\e017843\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\e017843\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\e017843\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BallBeam.exe.config
+C:\Users\e017843\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BallBeam.exe
+C:\Users\e017843\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BallBeam.pdb
+C:\Users\e017843\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BallBeam.Properties.Resources.resources
+C:\Users\e017843\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BallBeam.exe
+C:\Users\e017843\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\BallBeam.pdb
